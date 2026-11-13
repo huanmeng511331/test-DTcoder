@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+
+# SQLite
+backend/demo.db
+
+# Node / 前端
+node_modules/
+frontend/dist/
+*.log
+
+# 系统文件
+.DS_Store
